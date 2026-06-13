@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Danilo 👋
 
-<!--
-**dmarcatos/dmarcatos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Solutions Architect | Building AI Applications**
 
-Here are some ideas to get you started:
+Bridging Industrial Automation, Software and AI.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+I'm a Solutions Architect with a background in industrial automation, system integration and large-scale technical projects.
+
+Currently, I'm building AI-powered applications and expanding my skills in software engineering, AI engineering and intelligent systems.
+
+## Current Focus
+
+* Python
+* AI Engineering
+* LLM Applications
+* RAG Systems
+* FastAPI
+* Software Architecture
+
+## What You'll Find Here
+
+This GitHub is where I document my projects, experiments and learning journey while building real-world AI solutions.
+
+## Connect With Me
+
+* LinkedIn
